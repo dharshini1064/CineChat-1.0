@@ -1,4 +1,4 @@
-#  Smart Movie Recommender
+#  CineChat-Smart Movie Recommender
 
 **Natural Language → Personalized Movie Recommendations.**  
 Built with Gemini + TMDb APIs. Just say what you feel like watching — we’ll find the perfect movie for you!
